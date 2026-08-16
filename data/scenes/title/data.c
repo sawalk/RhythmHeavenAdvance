@@ -30,11 +30,6 @@ struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
         /* X, Y  */ 182, 78,
         /* Angle */ -20
     },
-    /* TEN */ {
-        /* Anim. */ anim_title_logo_goku,
-        /* X, Y  */ 182, 78,
-        /* Angle */ -20
-    },
     /* ADVANCE */ {
         /* Anim. */ anim_title_logo_advance,
         /* X, Y  */ 128, 91,
@@ -62,11 +57,6 @@ struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
     /* SANG */ {
         /* Anim. */ anim_title_logo_ten,
         /* X, Y  */ 179, 74,
-        /* Angle */ -20
-    },
-    /* Empty */ {
-        /* Anim. */ anim_title_logo_goku,
-        /* X, Y  */ 139, 81,
         /* Angle */ -20
     },
     /* ADVANCE */ {
