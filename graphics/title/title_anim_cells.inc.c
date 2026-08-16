@@ -317,22 +317,22 @@ AnimationCel title_cel014[] = {
 
 AnimationCel title_cel015[] = {
     /* Len */ 1,
-    /* 000 */ 0x00ef, 0xc1f3, 0x01a0
+    /* 000 */ 0x00ed, 0xc1ec, 0x01a0
 };
 
 AnimationCel title_cel016[] = {
     /* Len */ 1,
-    /* 000 */ 0x00f4, 0xc1f1, 0x01a8
+    /* 000 */ 0x00ed, 0xc1ea, 0x01a8
 };
 
 AnimationCel title_cel017[] = {
     /* Len */ 1,
-    /* 000 */ 0x00f1, 0xc1f1, 0x01b0
+    /* 000 */ 0x00e7, 0xc1ea, 0x01b0
 };
 
 AnimationCel title_cel018[] = {
     /* Len */ 1,
-    /* 000 */ 0x00f5, 0xc1ef, 0x01b8
+    /* 000 */ 0x00ee, 0xc1e1, 0x01b8
 };
 
 AnimationCel title_cel019[] = {
