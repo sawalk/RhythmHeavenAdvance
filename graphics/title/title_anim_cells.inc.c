@@ -308,8 +308,9 @@ AnimationCel title_cel013[] = {
 };
 
 AnimationCel title_cel014[] = {
-    /* Len */ 1,
-    /* 000 */ 0x00e0, 0xc1e0, 0x0008
+    /* Len */ 2,
+    /* 000 */ 0x80e0, 0xd1e0, 0x000c,
+    /* 001 */ 0x80e0, 0xc000, 0x000c
 };
 
 AnimationCel title_cel015[] = {
