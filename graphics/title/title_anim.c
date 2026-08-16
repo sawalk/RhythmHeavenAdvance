@@ -7,39 +7,43 @@
 
 struct Animation anim_title_blank1[] = {
     /* 000 */ { title_cel000, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_blank2[] = {
     /* 000 */ { title_cel000, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_blank3[] = {
     /* 000 */ { title_cel000, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_blank4[] = {
     /* 000 */ { title_cel000, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_blank5[] = {
     /* 000 */ { title_cel000, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_blank6[] = {
     /* 000 */ { title_cel000, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_text[] = {
     /* 000 */ { title_cel010, 2 },
     /* 001 */ { title_cel011, 3 },
     /* 002 */ { title_cel012, 28 },
-    /* 003 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
+};
+
+struct Animation anim_title_null1[] = {
+    /* End */ END_ANIMATION
 };
 
 struct Animation anim_title_stars_spin[] = {
@@ -47,7 +51,7 @@ struct Animation anim_title_stars_spin[] = {
     /* 001 */ { title_cel003, 4 },
     /* 002 */ { title_cel004, 4 },
     /* 003 */ { title_cel005, 4 },
-    /* 004 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_stars_appear[] = {
@@ -60,67 +64,67 @@ struct Animation anim_title_stars_appear[] = {
     /* 006 */ { title_cel002, 120 },
     /* 007 */ { title_cel001, 3 },
     /* 008 */ { title_cel002, 120 },
-    /* 009 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_logo_ri[] = {
     /* 000 */ { title_cel015, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_logo_zu[] = {
     /* 000 */ { title_cel016, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_logo_mu[] = {
     /* 000 */ { title_cel017, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_logo_ten[] = {
     /* 000 */ { title_cel018, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_logo_goku[] = {
     /* 000 */ { title_cel019, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_logo_av[] = {
     /* 000 */ { title_cel100, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_logo_bubble_inner[] = {
     /* 000 */ { title_cel013, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_logo_bubble_outer[] = {
     /* 000 */ { title_cel014, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_empty[] = {
     /* 000 */ { title_cel101, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_empty_2[] = {
     /* 000 */ { title_cel103, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_logo_advance[] = {
     /* 000 */ { title_cel102, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_logo_test[] = {
     /* 000 */ { title_cel020, 4 },
-    /* 001 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
 struct Animation anim_title_shooting_star[] = {
@@ -140,6 +144,6 @@ struct Animation anim_title_shooting_star[] = {
     /* 013 */ { title_cel030, 4 },
     /* 014 */ { title_cel031, 4 },
     /* 015 */ { title_cel028, 4 },
-    /* 016 */ END_ANIMATION,
+    /* End */ END_ANIMATION,
 };
 
