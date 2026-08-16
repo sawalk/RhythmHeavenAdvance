@@ -5,7 +5,6 @@ AnimationCel title_cel000[] = {
     /* 000 */ 0x00fc, 0x01fc, 0x0172
 };
 
-// [D_0890c8d0]
 AnimationCel title_cel001[] = {
     /* Len */ 34,
     /* 000 */ 0x0033, 0x804c, 0x0018,
@@ -44,7 +43,6 @@ AnimationCel title_cel001[] = {
     /* 033 */ 0x0021, 0x418b, 0x2118
 };
 
-// [D_0890c99e]
 AnimationCel title_cel002[] = {
     /* Len */ 28,
     /* 000 */ 0x0036, 0x4050, 0x010c,
@@ -77,7 +75,6 @@ AnimationCel title_cel002[] = {
     /* 027 */ 0x00de, 0x0048, 0x217e
 };
 
-// [D_0890ca48]
 AnimationCel title_cel003[] = {
     /* Len */ 28,
     /* 000 */ 0x00c2, 0x4014, 0x210e,
@@ -110,7 +107,6 @@ AnimationCel title_cel003[] = {
     /* 027 */ 0x0044, 0x0015, 0x017b
 };
 
-// [D_0890caf2]
 AnimationCel title_cel004[] = {
     /* Len */ 28,
     /* 000 */ 0x00c2, 0x4014, 0x211c,
@@ -143,7 +139,6 @@ AnimationCel title_cel004[] = {
     /* 027 */ 0x0048, 0x0060, 0x017d
 };
 
-// [D_0890cb9c]
 AnimationCel title_cel005[] = {
     /* Len */ 28,
     /* 000 */ 0x00cb, 0x701c, 0x210e,
@@ -176,7 +171,6 @@ AnimationCel title_cel005[] = {
     /* 027 */ 0x0044, 0x3017, 0x017b
 };
 
-// [D_0890cc46]
 AnimationCel title_cel006[] = {
     /* Len */ 25,
     /* 000 */ 0x0033, 0x804c, 0x0018,
@@ -206,7 +200,6 @@ AnimationCel title_cel006[] = {
     /* 024 */ 0x0047, 0x01bf, 0x0181
 };
 
-// [D_0890ccde]
 AnimationCel title_cel007[] = {
     /* Len */ 8,
     /* 000 */ 0x0036, 0x4050, 0x010c,
@@ -219,7 +212,6 @@ AnimationCel title_cel007[] = {
     /* 007 */ 0x00ca, 0x0048, 0x017e
 };
 
-// [D_0890cd10]
 AnimationCel title_cel008[] = {
     /* Len */ 28,
     /* 000 */ 0x0033, 0x804c, 0x0018,
@@ -252,7 +244,6 @@ AnimationCel title_cel008[] = {
     /* 027 */ 0x00de, 0x01c0, 0x0183
 };
 
-// [D_0890cdba]
 AnimationCel title_cel009[] = {
     /* Len */ 18,
     /* 000 */ 0x0036, 0x4050, 0x010c,
