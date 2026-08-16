@@ -66,12 +66,12 @@ struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
     },
     /* Empty */ {
         /* Anim. */ anim_title_logo_goku,
-        /* X, Y  */ 139, 79,
+        /* X, Y  */ 139, 81,
         /* Angle */ -20
     },
     /* ADVANCE */ {
         /* Anim. */ anim_title_logo_advance,
-        /* X, Y  */ 136, 89,
+        /* X, Y  */ 133, 89,
         /* Angle */ 37
     }
 };
