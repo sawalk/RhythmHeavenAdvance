@@ -46,12 +46,12 @@ struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
     },
     /* ZU */ {
         /* Anim. */ anim_title_logo_zu,
-        /* X, Y  */ 100, 87,
+        /* X, Y  */ 100, 97,
         /* Angle */ 192
     },
     /* MU */ {
         /* Anim. */ anim_title_logo_mu,
-        /* X, Y  */ 140, 77,
+        /* X, Y  */ 140, 67,
         /* Angle */ 44
     },
     /* TEN */ {
