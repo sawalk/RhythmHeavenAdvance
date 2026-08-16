@@ -12,6 +12,35 @@
 struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
     /* RI */ {
         /* Anim. */ anim_title_logo_ri,
+        /* X, Y  */ 63, 89,
+        /* Angle */ 84
+    },
+    /* ZU */ {
+        /* Anim. */ anim_title_logo_zu,
+        /* X, Y  */ 100, 66,
+        /* Angle */ 192
+    },
+    /* MU */ {
+        /* Anim. */ anim_title_logo_mu,
+        /* X, Y  */ 141, 91,
+        /* Angle */ 44
+    },
+    /* TEN */ {
+        /* Anim. */ anim_title_logo_ten,
+        /* X, Y  */ 182, 78,
+        /* Angle */ -20
+    },
+    /* ADVANCE */ {
+        /* Anim. */ anim_title_logo_advance,
+        /* X, Y  */ 128, 91,
+        /* Angle */ 37
+    }
+};
+};
+#else
+struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
+    /* RI */ {
+        /* Anim. */ anim_title_logo_ri,
         /* X, Y  */ 60, 88,
         /* Angle */ 84
     },
@@ -28,35 +57,6 @@ struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
     /* TEN */ {
         /* Anim. */ anim_title_logo_ten,
         /* X, Y  */ 180, 78,
-        /* Angle */ -20
-    },
-    /* ADVANCE */ {
-        /* Anim. */ anim_title_logo_advance,
-        /* X, Y  */ 128, 91,
-        /* Angle */ 37
-    }
-};
-};
-#else
-struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
-    /* RI */ {
-        /* Anim. */ anim_title_logo_ri,
-        /* X, Y  */ 67, 91,
-        /* Angle */ 84
-    },
-    /* ZU */ {
-        /* Anim. */ anim_title_logo_zu,
-        /* X, Y  */ 99, 54,
-        /* Angle */ 192
-    },
-    /* MU */ {
-        /* Anim. */ anim_title_logo_mu,
-        /* X, Y  */ 141, 96,
-        /* Angle */ 44
-    },
-    /* TEN */ {
-        /* Anim. */ anim_title_logo_ten,
-        /* X, Y  */ 184, 74,
         /* Angle */ -20
     },
     /* ADVANCE */ {
