@@ -29,11 +29,6 @@ struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
         /* Anim. */ anim_title_logo_ten,
         /* X, Y  */ 180, 75,
         /* Angle */ -20
-    },
-    /* ADVANCE */ {
-        /* Anim. */ anim_title_logo_goku,
-        /* X, Y  */ 152, 92,
-        /* Angle */ 37
     }
 };
 #else
