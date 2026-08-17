@@ -330,7 +330,7 @@ AnimationCel title_cel017[] = {
 
 AnimationCel title_cel018[] = {
     /* Len */ 1,
-    /* 000 */ 0x00e4, 0xc1ef, 0x0278
+    /* 000 */ 0x00e4, 0xc1ee, 0x0278
 };
 #else
 AnimationCel title_cel017[] = {
