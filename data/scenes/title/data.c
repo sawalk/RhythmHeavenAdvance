@@ -41,27 +41,27 @@ struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
 struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
     /* RI */ {
         /* Anim. */ anim_title_logo_ri,
-        /* X, Y  */ 62, 89,
+        /* X, Y  */ 60, 88,
         /* Angle */ 84
     },
     /* DUM */ {
         /* Anim. */ anim_title_logo_zu,
-        /* X, Y  */ 100, 79,
+        /* X, Y  */ 100, 78,
         /* Angle */ 192
     },
     /* SE */ {
         /* Anim. */ anim_title_logo_mu,
-        /* X, Y  */ 138, 88,
+        /* X, Y  */ 138, 87,
         /* Angle */ 44
     },
     /* SANG */ {
         /* Anim. */ anim_title_logo_ten,
-        /* X, Y  */ 178, 78,
+        /* X, Y  */ 179, 77,
         /* Angle */ -20
     },
     /* ADVANCE */ {
         /* Anim. */ anim_title_logo_advance,
-        /* X, Y  */ 139, 93,
+        /* X, Y  */ 142, 95,
         /* Angle */ 37
     }
 };
