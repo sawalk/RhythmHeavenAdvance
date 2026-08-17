@@ -5,11 +5,7 @@
 
 
 // VALUES
-#ifdef PARADISE
-#define TOTAL_TITLE_LOGO_BUBBLES 4
-#else
 #define TOTAL_TITLE_LOGO_BUBBLES 5
-#endif
 
 // MACROS
 #define gTitle ((struct TitleSceneData *)gCurrentSceneData)
