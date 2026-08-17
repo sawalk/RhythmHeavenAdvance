@@ -8,6 +8,35 @@
 
 
 // [D_089dcf68] Title Logo Characters
+#ifdef PARADISE
+struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
+    /* RI */ {
+        /* Anim. */ anim_title_logo_ri,
+        /* X, Y  */ 60, 86,
+        /* Angle */ 84
+    },
+    /* DUM */ {
+        /* Anim. */ anim_title_logo_zu,
+        /* X, Y  */ 100, 76,
+        /* Angle */ 192
+    },
+    /* SE */ {
+        /* Anim. */ anim_title_logo_mu,
+        /* X, Y  */ 138, 85,
+        /* Angle */ 44
+    },
+    /* SANG */ {
+        /* Anim. */ anim_title_logo_ten,
+        /* X, Y  */ 180, 75,
+        /* Angle */ -20
+    },
+    /* ADVANCE */ {
+        /* Anim. */ anim_title_logo_goku,
+        /* X, Y  */ 152, 92,
+        /* Angle */ 37
+    }
+};
+#else
 struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
     /* RI */ {
         /* Anim. */ anim_title_logo_ri,
@@ -35,6 +64,7 @@ struct TitleLogoCharData title_logo_char_data[TOTAL_TITLE_LOGO_BUBBLES] = {
         /* Angle */ 37
     }
 };
+#endif
 
 // [D_089dcfa4] Graphics Table
 struct GraphicsTable title_gfx_table[] = {
