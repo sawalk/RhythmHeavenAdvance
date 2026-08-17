@@ -323,11 +323,6 @@ AnimationCel title_cel016[] = {
     /* 000 */ 0x00f0, 0xc1ea, 0x01a8
 };
 
-AnimationCel title_cel017[] = {
-    /* Len */ 1,
-    /* 000 */ 0x00eb, 0xc1ea, 0x01b0
-};
-
 #ifdef PARADISE
 AnimationCel title_cel017[] = {
     /* Len */ 1,
@@ -339,6 +334,11 @@ AnimationCel title_cel018[] = {
     /* 000 */ 0x00ec, 0xc1ea, 0x0278
 };
 #else
+AnimationCel title_cel017[] = {
+    /* Len */ 1,
+    /* 000 */ 0x00eb, 0xc1ea, 0x01b0
+};
+
 AnimationCel title_cel018[] = {
     /* Len */ 1,
     /* 000 */ 0x00ec, 0xc1ea, 0x01b8
